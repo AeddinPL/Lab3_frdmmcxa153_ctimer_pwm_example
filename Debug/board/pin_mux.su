@@ -1,0 +1,5 @@
+C:\Dev\NXP\Training\workspace\frdmmcxa153_ctimer_pwm_example\drivers/fsl_clock.h:546:20:CLOCK_EnableClock	32	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_ctimer_pwm_example\drivers/fsl_reset.h:196:20:RESET_ReleasePeripheralReset	16	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_ctimer_pwm_example\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
+../board/pin_mux.c:29:6:BOARD_InitBootPins	8	static
+../board/pin_mux.c:56:6:BOARD_InitPins	24	static

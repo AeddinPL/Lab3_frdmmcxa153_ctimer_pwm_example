@@ -1,0 +1,7 @@
+../drivers/fsl_clock.h:546:20:CLOCK_EnableClock	32	static
+../drivers/fsl_clock.h:579:20:CLOCK_DisableClock	32	static
+../drivers/fsl_reset.h:196:20:RESET_ReleasePeripheralReset	16	static
+../drivers/fsl_inputmux.c:50:17:INPUTMUX_GetInstance	24	static
+../drivers/fsl_inputmux.c:78:6:INPUTMUX_Init	16	static
+../drivers/fsl_inputmux.c:113:6:INPUTMUX_AttachSignal	32	static
+../drivers/fsl_inputmux.c:182:6:INPUTMUX_Deinit	16	static

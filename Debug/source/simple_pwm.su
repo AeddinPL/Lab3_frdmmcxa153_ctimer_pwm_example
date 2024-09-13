@@ -1,0 +1,4 @@
+C:\Dev\NXP\Training\workspace\frdmmcxa153_ctimer_pwm_example\drivers/fsl_clock.h:546:20:CLOCK_EnableClock	32	static
+C:\Dev\NXP\Training\workspace\frdmmcxa153_ctimer_pwm_example\drivers/fsl_ctimer.h:497:20:CTIMER_StartTimer	16	static
+../source/simple_pwm.c:45:10:CTIMER_GetPwmPeriodValue	24	static
+../source/simple_pwm.c:59:5:main	40	static
